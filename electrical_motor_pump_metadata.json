@@ -1,0 +1,39 @@
+{
+    "project_name": "District-Level Electrical Motor Pump Adoption Pattern Analysis",
+    "dataset": "5.49.csv",
+    "rows": 39,
+    "target_column": "Electrical Motor Pump Use (%)",
+    "feature_columns": [
+        "No",
+        "Electrical Motor Pump",
+        "Total",
+        "No (%)"
+    ],
+    "classes": [
+        "High Adoption",
+        "Low Adoption",
+        "Moderate Adoption"
+    ],
+    "number_of_clusters": 3,
+    "silhouette_score": 0.9910134310134308,
+    "neural_network_accuracy": 0.8,
+    "model_comparison": {
+        "Neural Network": 80.0,
+        "Random Forest": 100.0,
+        "Decision Tree": 100.0,
+        "KNN": 80.0,
+        "Logistic Regression": 90.0
+    },
+    "generated_files": {
+        "model": "electrical_motor_pump_model.h5",
+        "preprocessor": "electrical_motor_pump_preprocessor.pkl",
+        "yaml": "electrical_motor_pump_config.yaml",
+        "result_csv": "result.csv",
+        "prediction_csv": "prediction.csv",
+        "accuracy_graph": "accuracy_graph.png",
+        "comparison_graph": "model_comparison_graph.png",
+        "heatmap": "correlation_heatmap.png",
+        "result_graph": "result_graph.png",
+        "prediction_graph": "prediction_graph.png"
+    }
+}

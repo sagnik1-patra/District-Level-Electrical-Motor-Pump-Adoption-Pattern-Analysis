@@ -1,0 +1,47 @@
+project:
+  name: District-Level Electrical Motor Pump Adoption Pattern Analysis
+  random_state: 42
+dataset:
+  path: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\5.49.csv
+  rows: 39
+  columns: 9
+  target: Electrical Motor Pump Use (%)
+  features:
+  - 'No'
+  - Electrical Motor Pump
+  - Total
+  - No (%)
+model:
+  type: Feedforward Neural Network
+  framework: TensorFlow Keras
+  classes:
+  - High Adoption
+  - Low Adoption
+  - Moderate Adoption
+  test_accuracy: 0.8
+clustering:
+  algorithm: KMeans
+  clusters: 3
+  silhouette_score: 0.9910134310134308
+outputs:
+  h5: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\electrical_motor_pump_model.h5
+  pkl: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\electrical_motor_pump_preprocessor.pkl
+  json: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\electrical_motor_pump_metadata.json
+  result_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\result.csv
+  prediction_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\prediction.csv
+  accuracy_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\accuracy_graph.png
+  comparison_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\model_comparison_graph.png
+  heatmap: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\correlation_heatmap.png
+  result_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\result_graph.png
+  prediction_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\prediction_graph.png

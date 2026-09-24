@@ -1,0 +1,89 @@
+{
+    "project_name": "PSO-Based District-Level Electrical Motor Pump Adoption Pattern Analysis",
+    "dataset": "5.49.csv",
+    "dataset_path": "C:\\Users\\sagni\\Downloads\\District-Level Electrical Motor Pump Adoption Pattern Analysis\\5.49.csv",
+    "rows": 39,
+    "target_column": "Electrical Motor Pump Use (%)",
+    "optimization_algorithm": "Binary Particle Swarm Optimization",
+    "pso_swarm_size": 30,
+    "pso_iterations": 30,
+    "pso_inertia_max": 0.9,
+    "pso_inertia_min": 0.4,
+    "pso_cognitive": 2.0,
+    "pso_social": 2.0,
+    "pso_best_fitness": 0.9874999999999999,
+    "features_before_pso": 4,
+    "features_after_pso": 1,
+    "selected_features": [
+        "No"
+    ],
+    "classes": [
+        "High Adoption",
+        "Low Adoption",
+        "Moderate Adoption"
+    ],
+    "number_of_clusters": 3,
+    "silhouette_score": 0.9910134310134308,
+    "neural_network_accuracy": 0.9,
+    "precision": 0.8099999999999999,
+    "recall": 0.9,
+    "f1_score": 0.8526315789473683,
+    "model_comparison": [
+        {
+            "Model": "PSO + Random Forest",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "PSO + Decision Tree",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "PSO + Logistic Regression",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "PSO + Neural Network",
+            "Accuracy": 90.0,
+            "Precision": 81.0,
+            "Recall": 90.0,
+            "F1_Score": 85.26315789473684
+        },
+        {
+            "Model": "PSO + KNN",
+            "Accuracy": 90.0,
+            "Precision": 81.0,
+            "Recall": 90.0,
+            "F1_Score": 85.26315789473684
+        }
+    ],
+    "generated_files": {
+        "model": "pso_electrical_motor_pump_model.h5",
+        "preprocessor": "pso_electrical_motor_pump_preprocessor.pkl",
+        "yaml": "pso_electrical_motor_pump_config.yaml",
+        "json": "pso_electrical_motor_pump_metadata.json",
+        "result": "pso_result.csv",
+        "prediction": "pso_prediction.csv",
+        "comparison": "pso_model_comparison.csv",
+        "feature_selection": "pso_feature_selection.csv",
+        "fitness_history": "pso_fitness_history.csv",
+        "accuracy_graph": "pso_accuracy_graph.png",
+        "loss_graph": "pso_loss_graph.png",
+        "comparison_graph": "pso_comparison_graph.png",
+        "heatmap": "pso_heatmap.png",
+        "result_graph": "pso_result_graph.png",
+        "prediction_graph": "pso_prediction_graph.png",
+        "feature_selection_graph": "pso_feature_selection_graph.png",
+        "fitness_graph": "pso_fitness_graph.png",
+        "confusion_matrix": "pso_confusion_matrix.png",
+        "distribution_graph": "pso_adoption_distribution_graph.png"
+    }
+}

@@ -1,0 +1,40 @@
+States,District,No,Electrical Motor Pump,Total,No (%),Electrical Motor Pump Use (%),Cluster,Adoption_Level,Actual_Adoption_Level,Predicted_Adoption_Level,Prediction_Confidence_Percent,Prediction_Correct
+Andhra Pradesh,Guntur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Andhra Pradesh,Medak,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Assam,Kamrup,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Assam,Nalbari,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Bihar,Jehanabad,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Bihar,Madhubani,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Bihar,Muzaffarpur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Gujurat,Mahsana,78,2,80,97.5,2.5,2,High Adoption,High Adoption,High Adoption,79.65,True
+Gujurat,Narmada,79,1,80,98.75,1.25,1,Moderate Adoption,Moderate Adoption,High Adoption,57.41,False
+Haryana,Kurukshetra,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Haryana,Panchkula,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Himachal Pradesh,Bilaspur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Himachal Pradesh,Sirmaur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Jharkhand,Purbi Singhbhum,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Jharkhand,Ranchi,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Karnataka,Haveri,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Karnataka,Mandya,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Madhya Pradesh,Guna,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Madhya Pradesh,Indore,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Madhya Pradesh,Ratlam,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Odisha,Angul,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Odisha,Bargarh,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Odisha,Kendrapara,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Punjab,Moga,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Punjab,Patiala,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Rajasthan,Jaipur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Rajasthan,Jhalawar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Rajasthan,Rajsamand,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Tamilnadu,Cuddalore,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Tamilnadu,Erode,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Tamilnadu,Tiruvannamalai,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Uttar Pradesh,Barabanki,79,1,80,98.75,1.25,1,Moderate Adoption,Moderate Adoption,High Adoption,57.41,False
+Uttar Pradesh,Hathras,78,2,80,97.5,2.5,2,High Adoption,High Adoption,High Adoption,79.65,True
+Uttar Pradesh,Kannauj,79,1,80,98.75,1.25,1,Moderate Adoption,Moderate Adoption,High Adoption,57.41,False
+Uttar Pradesh,Sant Kabir Nagar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Uttar Pradesh,Sant Ravidas Nagar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+West Bengal,North 24 Parganas,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+West Bengal,Paschim Medinipur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,Low Adoption,88.97,True
+Total,Total,3033,7,3040,99.8,0.2,0,Low Adoption,Low Adoption,High Adoption,80.99,False

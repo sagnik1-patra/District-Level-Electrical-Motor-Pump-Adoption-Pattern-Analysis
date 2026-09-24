@@ -1,0 +1,40 @@
+States,District,No,Electrical Motor Pump,Total,No (%),Electrical Motor Pump Use (%),Cluster,Adoption_Level,Predicted_Adoption_Level,Prediction_Confidence
+Andhra Pradesh,Guntur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Andhra Pradesh,Medak,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Assam,Kamrup,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Assam,Nalbari,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Bihar,Jehanabad,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Bihar,Madhubani,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Bihar,Muzaffarpur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Gujurat,Mahsana,78,2,80,97.5,2.5,2,High Adoption,High Adoption,0.82305145
+Gujurat,Narmada,79,1,80,98.75,1.25,1,Moderate Adoption,High Adoption,0.5810571
+Haryana,Kurukshetra,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Haryana,Panchkula,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Himachal Pradesh,Bilaspur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Himachal Pradesh,Sirmaur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Jharkhand,Purbi Singhbhum,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Jharkhand,Ranchi,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Karnataka,Haveri,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Karnataka,Mandya,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Madhya Pradesh,Guna,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Madhya Pradesh,Indore,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Madhya Pradesh,Ratlam,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Odisha,Angul,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Odisha,Bargarh,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Odisha,Kendrapara,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Punjab,Moga,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Punjab,Patiala,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Rajasthan,Jaipur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Rajasthan,Jhalawar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Rajasthan,Rajsamand,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Tamilnadu,Cuddalore,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Tamilnadu,Erode,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Tamilnadu,Tiruvannamalai,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Uttar Pradesh,Barabanki,79,1,80,98.75,1.25,1,Moderate Adoption,High Adoption,0.581057
+Uttar Pradesh,Hathras,78,2,80,97.5,2.5,2,High Adoption,High Adoption,0.82305145
+Uttar Pradesh,Kannauj,79,1,80,98.75,1.25,1,Moderate Adoption,High Adoption,0.5810571
+Uttar Pradesh,Sant Kabir Nagar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Uttar Pradesh,Sant Ravidas Nagar,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+West Bengal,North 24 Parganas,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+West Bengal,Paschim Medinipur,80,0,80,100.0,0.0,0,Low Adoption,Low Adoption,0.9027566
+Total,Total,3033,7,3040,99.8,0.2,0,Low Adoption,High Adoption,0.94429183

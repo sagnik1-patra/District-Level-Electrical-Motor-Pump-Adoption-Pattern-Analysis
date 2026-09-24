@@ -1,0 +1,74 @@
+project:
+  name: PSO-Based District-Level Electrical Motor Pump Adoption Pattern Analysis
+  optimization: Binary Particle Swarm Optimization
+  random_state: 42
+dataset:
+  path: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\5.49.csv
+  rows: 39
+  columns: 9
+  target: Electrical Motor Pump Use (%)
+pso:
+  swarm_size: 30
+  iterations: 30
+  inertia_max: 0.9
+  inertia_min: 0.4
+  cognitive_coefficient: 2.0
+  social_coefficient: 2.0
+  best_fitness: 0.9874999999999999
+  features_before: 4
+  features_after: 1
+  selected_features:
+  - 'No'
+model:
+  type: PSO Optimized Feedforward Neural Network
+  framework: TensorFlow Keras
+  classes:
+  - High Adoption
+  - Low Adoption
+  - Moderate Adoption
+  accuracy: 0.9
+  precision: 0.8099999999999999
+  recall: 0.9
+  f1_score: 0.8526315789473683
+clustering:
+  algorithm: KMeans
+  clusters: 3
+  silhouette_score: 0.9910134310134308
+outputs:
+  model: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\pso_electrical_motor_pump_model.h5
+  preprocessor: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_electrical_motor_pump_preprocessor.pkl
+  json: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption Pattern
+    Analysis\pso_electrical_motor_pump_metadata.json
+  result_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_result.csv
+  prediction_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_prediction.csv
+  comparison_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_model_comparison.csv
+  feature_selection_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor
+    Pump Adoption Pattern Analysis\pso_feature_selection.csv
+  fitness_history_csv: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\pso_fitness_history.csv
+  accuracy_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_accuracy_graph.png
+  loss_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_loss_graph.png
+  comparison_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\pso_comparison_graph.png
+  heatmap: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_heatmap.png
+  result_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_result_graph.png
+  prediction_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\pso_prediction_graph.png
+  feature_selection_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor
+    Pump Adoption Pattern Analysis\pso_feature_selection_graph.png
+  fitness_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump Adoption
+    Pattern Analysis\pso_fitness_graph.png
+  confusion_matrix: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\pso_confusion_matrix.png
+  distribution_graph: C:\Users\sagni\Downloads\District-Level Electrical Motor Pump
+    Adoption Pattern Analysis\pso_adoption_distribution_graph.png

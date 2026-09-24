@@ -1,0 +1,40 @@
+States,District,Electrical Motor Pump Use (%),Predicted_Adoption_Level,Prediction_Confidence_Percent
+Andhra Pradesh,Guntur,0.0,Low Adoption,88.97
+Andhra Pradesh,Medak,0.0,Low Adoption,88.97
+Assam,Kamrup,0.0,Low Adoption,88.97
+Assam,Nalbari,0.0,Low Adoption,88.97
+Bihar,Jehanabad,0.0,Low Adoption,88.97
+Bihar,Madhubani,0.0,Low Adoption,88.97
+Bihar,Muzaffarpur,0.0,Low Adoption,88.97
+Gujurat,Mahsana,2.5,High Adoption,79.65
+Gujurat,Narmada,1.25,High Adoption,57.41
+Haryana,Kurukshetra,0.0,Low Adoption,88.97
+Haryana,Panchkula,0.0,Low Adoption,88.97
+Himachal Pradesh,Bilaspur,0.0,Low Adoption,88.97
+Himachal Pradesh,Sirmaur,0.0,Low Adoption,88.97
+Jharkhand,Purbi Singhbhum,0.0,Low Adoption,88.97
+Jharkhand,Ranchi,0.0,Low Adoption,88.97
+Karnataka,Haveri,0.0,Low Adoption,88.97
+Karnataka,Mandya,0.0,Low Adoption,88.97
+Madhya Pradesh,Guna,0.0,Low Adoption,88.97
+Madhya Pradesh,Indore,0.0,Low Adoption,88.97
+Madhya Pradesh,Ratlam,0.0,Low Adoption,88.97
+Odisha,Angul,0.0,Low Adoption,88.97
+Odisha,Bargarh,0.0,Low Adoption,88.97
+Odisha,Kendrapara,0.0,Low Adoption,88.97
+Punjab,Moga,0.0,Low Adoption,88.97
+Punjab,Patiala,0.0,Low Adoption,88.97
+Rajasthan,Jaipur,0.0,Low Adoption,88.97
+Rajasthan,Jhalawar,0.0,Low Adoption,88.97
+Rajasthan,Rajsamand,0.0,Low Adoption,88.97
+Tamilnadu,Cuddalore,0.0,Low Adoption,88.97
+Tamilnadu,Erode,0.0,Low Adoption,88.97
+Tamilnadu,Tiruvannamalai,0.0,Low Adoption,88.97
+Uttar Pradesh,Barabanki,1.25,High Adoption,57.41
+Uttar Pradesh,Hathras,2.5,High Adoption,79.65
+Uttar Pradesh,Kannauj,1.25,High Adoption,57.41
+Uttar Pradesh,Sant Kabir Nagar,0.0,Low Adoption,88.97
+Uttar Pradesh,Sant Ravidas Nagar,0.0,Low Adoption,88.97
+West Bengal,North 24 Parganas,0.0,Low Adoption,88.97
+West Bengal,Paschim Medinipur,0.0,Low Adoption,88.97
+Total,Total,0.2,High Adoption,80.99

@@ -1,0 +1,82 @@
+{
+    "project_name": "AIS-Based District-Level Electrical Motor Pump Adoption Pattern Analysis",
+    "dataset": "5.49.csv",
+    "rows": 39,
+    "target_column": "Electrical Motor Pump Use (%)",
+    "optimization_algorithm": "Artificial Immune System",
+    "ais_population_size": 30,
+    "ais_generations": 30,
+    "ais_best_fitness": 0.9874999999999999,
+    "features_before_ais": 4,
+    "features_after_ais": 1,
+    "selected_features": [
+        "No"
+    ],
+    "classes": [
+        "High Adoption",
+        "Low Adoption",
+        "Moderate Adoption"
+    ],
+    "number_of_clusters": 3,
+    "silhouette_score": 0.9910134310134308,
+    "neural_network_accuracy": 0.9,
+    "precision": 0.8099999999999999,
+    "recall": 0.9,
+    "f1_score": 0.8526315789473683,
+    "model_comparison": [
+        {
+            "Model": "AIS + Random Forest",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "AIS + Decision Tree",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "AIS + Logistic Regression",
+            "Accuracy": 100.0,
+            "Precision": 100.0,
+            "Recall": 100.0,
+            "F1_Score": 100.0
+        },
+        {
+            "Model": "AIS + Neural Network",
+            "Accuracy": 90.0,
+            "Precision": 81.0,
+            "Recall": 90.0,
+            "F1_Score": 85.26315789473684
+        },
+        {
+            "Model": "AIS + KNN",
+            "Accuracy": 90.0,
+            "Precision": 81.0,
+            "Recall": 90.0,
+            "F1_Score": 85.26315789473684
+        }
+    ],
+    "generated_files": {
+        "model": "ais_electrical_motor_pump_model.h5",
+        "preprocessor": "ais_electrical_motor_pump_preprocessor.pkl",
+        "yaml": "ais_electrical_motor_pump_config.yaml",
+        "json": "ais_electrical_motor_pump_metadata.json",
+        "result": "ais_result.csv",
+        "prediction": "ais_prediction.csv",
+        "comparison": "ais_model_comparison.csv",
+        "feature_selection": "ais_feature_selection.csv",
+        "fitness_history": "ais_fitness_history.csv",
+        "accuracy_graph": "ais_accuracy_graph.png",
+        "loss_graph": "ais_loss_graph.png",
+        "comparison_graph": "ais_comparison_graph.png",
+        "heatmap": "ais_heatmap.png",
+        "result_graph": "ais_result_graph.png",
+        "prediction_graph": "ais_prediction_graph.png",
+        "feature_selection_graph": "ais_feature_selection_graph.png",
+        "fitness_graph": "ais_fitness_graph.png"
+    }
+}

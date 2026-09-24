@@ -1,0 +1,6 @@
+Model,Accuracy
+Random Forest,100.0
+Decision Tree,100.0
+Logistic Regression,90.0
+Neural Network,80.0
+KNN,80.0
